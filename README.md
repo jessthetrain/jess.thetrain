@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I'm Stones!
+- 👩 Pronouns: She/Her
+
+- 🎤 Presenter @ TruckersFM
+- 🚢 Director @ Eurocross
+- 🚛 Event Manager @ NOWT
 
 <!--
 **Stones8000/Stones8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

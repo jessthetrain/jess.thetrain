@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Stones!
+- 👋 Hi, I'm Jess!
 - 👩 Pronouns: She/Her
 
 - 🎤 Presenter @ TruckersFM
